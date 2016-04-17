@@ -1,0 +1,195 @@
+ .''            -.       '   ' ..         ..'          '' ''     '.'      .-.'''            '     '        '   '                                 
+      '..'              ''''      .' '   ..      '    ..'        ' --:.          odMMMMNh:        '              ''.'            '         '     
+  '    '          ' '   '        '.-..'  '  .'       '        '...             ':-.:yMMMMMMMMMm         '      '' ''                   '       ' 
+    '   '       '''          ''''  '''     -:.     '.       '.+          +- .  /-yMMMM+'  /MMMMMMM+           ''     '                '          
+    ' ..-      '.             ..  -.'.     '   ''  .  .      '      sMM.      '.:mMMMM/     .mMMMMMMM      '''                       .'          
+     .  '' .         ''   '      -:.''   :'           '            MMMm        /yMMMMy     ms'ohMMMMMMy            .         '                   
+  '''   '' '         '          .''     .-                        MMMMMM     MMMMMM       MMM    MMMMMMM      .             '                    
+ ''  '..''    .          '  -.         '-  .   '          -       yoMMMMMMM. MMmo                MMMMMMMy   '       ...                          
+  '  .'       .   .      ' '          .--'               ':      MMMMMMM.   MM'         MM        MMMMMMM  ''      '.       '      '         '   
+  '-'.''  '   '  .       '              '        '      '''     MMMM    MMMMMs-         -mMM       MMMMM   '    '.-.                             
+  ...'.   '  '' ''         . ''               ''..  '  '  '   MMMMN    :MMMM/M:     M'    -.       MMMMM      '.'.      '                 '      
+ ..'''      .''''       '    '      '          ''. '        MMM '       MMMNMM     MMMMo M    +MM  /.MMM .   ''..                      ' '       
+'.'..      :.          '           '' '            '       MMMM     :    NMMM     +MMd :    oMMMy MM /M  - ' ...'                     ' '        
+-'     '              ''        ''                       ' MMMMM      NMMmho   MM:dy  y-     MM MMMMd    -   ' '         ''           '          
+.           '         .'        '                          MMMMMM              MMm   .Mdh     MMMMM     o    :-      .             .  .'         
+'.     .'                                                  mMMMMMM-            MM '   MMMMMMMMMMMM      M ' .:                     ' '           
+'      .'         ''                                       :MMMMMMM           yM MM :MMMMMMMMMM.        o   ''    '''   ''       .               
+      '.  '                                       ''        NMMMMMMM          MM:My MMMMMMM/ :  +      /M  '     .'                  '           
+     ''                                                      mMMMMMMMo           sMMMMMMMMM NmNM       M'                        '               
+        '                                                     +MMMMMMMMM         'MMMMMMM. :s        MM'       '  '           '. ''          ''  
+    '                                                           oMNMMMMMMMM-     /MMMM-            MMm   '     . '     '     ''     '            
+                                                                  .:MMMMMMMMM   -+MMM           MMM/  .'. ''                 ..'                '
+                                              '                      mMMMMMMM   M MMM       M:+       .yNdds. '             ''.                . 
+                                                                      sMMMMMM+  M MM       d          :NNNMs                ''                   
+                                                                       :MMMMMM MM 'M     oy/''        sMNMM/                                     
+                                                                         /ydm  MM NM  'MM'            yMMMM:       ' .'                      '.  
+                                                                            : -Mo M   o/              ommmN.        ''   '            '      '.  
+                                                                              sM  M             '' .. +.               '.:-             '     . .
+                                                                              /M  M  '         ':---  :             ' '.-''               .-.-.' 
+                                                                              :m  M            ./:::''              '''''   ' .'        ''.'--   
+                                                                              +M 'm            :///+        '          '' ' .'..           .:.'. 
+                                                                              sM '+            /:::/ '      '          ''  .'.:-       ' .':.' .-
+                                                                              /M  :            :--:/ '                     ''---         '--.'...
+                                                                              yM 'o            ----: .                    '.---''             '::
+                                                                           '  yM :d  :         :...: .                   '''-.    ..-.         '.
+                                                                           '  +M oM  -         .''.. -                     ''    ..--'           
+                                                                           '  /M sM  .           '.-.-                          ':-.-'           
+                                                                           '  om sM  -         '' ..'.                        ' ''..-... ' '     
+                                                                              oh sM  -         .  .-'.                       '   ' ...-'..'      
+                                                                              hh oM  '            .' '                          '  '  ' '' .. .. 
+                                                                              My /M               -' .                          '     '.''. '..'.
+                                                   ''''                       Mh :y             ' '  '                                .  '  ...-.
+                                             .-:.       -hMmo'                Md /+               .  .                                  '   .'...
+                                         .-.            dMMMMMMM-          '  Ms ++  '            '  .                                      '.'''
+                                      ..                 +MMMMMMMM         '  M: yo  '               -                                       '  '
+                                    .         hMMMy       /MMMMMMMM:     '.-  m: ds                 .. .   '                                     
+                                  '        sMM.         m'  mMMMMMMMo .::     h/ MM /y            . -'                                           
+                                                  :sNMN+     .MMMMMMMN       MMMyM  MMMMMd          --'.'                                        
+                                              MMMMMMMMm         MMMMM      MMMM.o   yMMMMMMM      ' :.'''                                        
+                                      M    MMMMMM:    -o.        /MM     MMMMMM       .MMMMMM     ' :....                                        
+                              .      MMMMMMMm       hMMMN.              MM  .MM     dMdMMMMMMM    '':.-..                                        
+                              .     MMMMMM      .-os     -+/               MMMM     .-oMMMMMMMy   '-o:--.                                        
+                              .     MMMMM/              :/y:           MMMMMMM          MMMMMM    -.o---.                                        
+                                    MMMMMMM           -/::.  :/       MMMMM      o.      MMMMM    -.o/::'                                        
+                                 y   ' MMMMM         '-     oMMMM    oMMM   'MM '.       MdMMM    -:y::-                                         
+                               +MM:    dMMMMs              :MMMMM-     . +MMM   :        MymMM    ..+---  '                                      
+                               MMM      MMMMMM+.-hy:       'MMMMM      MMMM+     +-      M+MMM   ' .:'.-                                         
+                               MM+h/      MMMMMMMMM:        MMMM     MMMMM    +/N:   .oM soy M   . '. ''                                         
+                               hmyNm      yMMMMMMMm         :       MMMMM'     :o   sMMMs  o oM' ' .'     '                                      
+                               sMMMN       mMMMMMMMm             N yMMdMM/    -/o   dmmy  syoMM' : .                                             
+                               :MMMM+       +MMMMMMy         m   MhMMM+Mh    hd.-   NmoM. hN Mm '- :                                             
+                               .MMMMM                omMMNo  .  /MMMMMMMM    Mo -  :MMMM  :  MM  -.-                                             
+                                MMMMM              :MMMMMMy  o NMMsMM MM o  -o   '-NM+    '  Ms  :.-                                             
+                                MMMMN              MMMMMMMM-+MNMMM M  Mo o  .-  +../'    /:  '   /'-                                             
+                                MMMMm              .MMMMMMMMMMoMM  N  Ms /  ''  .'..   oMh-     '-..                                             
+                                 yMMmMm            .omdMNhyo   M     MMM+/  o.  ''   -oMMy       -''                                             
+                                  dM/MM:     .mMNoos/'        NM  N. yd  ' 'y  .+:'-../MMs       . . '                                           
+                                   d oMM      :hmMM+'   ''    MM.mN  -  ::'sh '/+-.'  +Nd     MMMM':''                                           
+                                  '  /MM/+      ':hMMMM:     .MM oh  s  :--ds ../.  .'/      .MMMM'/. '                                          
+                                       mMM       MMMMMM       MM +N     :-sMm  ':'.'    s   o MMM       oo                                       
+                                 .     'MMM-     MMMMMM       MM :m  h     yd:::-      Ms     MMMo     MMMN                                      
+                                -:     MMMMM:'   MMMMMM        .  +  M :-           -yMM      MMMM    yMMMMM                                     
+                             '-       hMMMMMMso' MMMMMMM          My-M      ..        .         oM     MMMMMM.                                   
+                           '-       MMMMMMMMMh   MMMMMM        o           ''          +  -       .M    MMMMMM/                                  
+                         '-       MMMMMMMMMMMy    o    MMMMMM.             //...      ss  M      .NMM     MMMMMm                                 
+                        .        MMMMMMMMhmdM -//      MMMMMMM         .  .o   ''' .:.   MM.M     mMM -    oMMMMM                                
+                      ..          MMMMMMMMMMMoo:        MMMMMM             MMMMd-       .MMMM+     MM       :MMMMM:                              
+                     -       so  MMMMMMMMMMMM:          mMMMMMo            Mmd/      .:NMMMMM     MmM s    /MMMMy:Mo                             
+                   '.       MdMMMMMM/  MMMMMMMM        /:MMMMM        .   -NNy:'      MMMMMMy       - M:     MMMMM ':                            
+                  .       NMMMMMMM    /MMMMMMMMMN      ' MM    .MMMM       -'..     /MMMMM :   y      MM/     MMMMMM :                           
+                '.       MMMMMMMM      MMMMMMMM       MMMy     MMMMMMMM     so:     MMMMM      M 'y       M    -MMMMM+/'                         
+               '.       MMMMMMM :N       mMMMd      MhMM.      MhMMMMMMM          MMMM     M   + MM  m      :  NMMMMMMMM/                        
+              '.      MMMMMMM    yh        +Mm /y  M--MM       -MMMMMMMMM       +MMMMM     s hs+ MM  M          MMMMMMMMMN                       
+             ''      MMMMMM:   :MMMM        m  m/ MM/MMM      MMMMM MMMMMM     :MMMMMM       MM  M   M   yMs     MMMMMMMMMM                      
+            ''      MMMMMM    yMMMMN        y   : MMMMMM     -MN dM/MMMMM     MMMMMMM        MM  M   M MMMM+       .MMMMMMMM                     
+            '      MMMMMM   .:yMMMMM           MMMMM        .M   MMMMMM  dM    MMMMM         MM     MM.MMMMMd     '  MM MMMMM.                   
+           .      MMMMM    ./.'mMMMMM         /MMMMo        M    MMMMM  MMM/   MMMM             /  .MM:MMMMM            MMMMMM                   
+          .      MMMMM     .'.MMMMMM+         MmoM.    dM        MMMMN   +MM yMMMM     MMM      M  yMMMMMM.  -.   .      MMMMM-                  
+         .      MMMMM  .   ' sM- 'NMMMM.        +M  :  M+  M     MMMM     MMMMMMM      MMMMM     . MMMMMd    :sy  M     .MMMM                    
+         '     MMMMM    ' '. -    -MMMMMs'       .  Md.M   M   NMMMM.   mMMMMMM       h MMMMMM     /yd/      /yMM M     mMMMM                    
+        .     MMMMM      ./:       yMMMMMM         dNoyh   N  MMMM     MMMMMM:      ds d MMMMMM               MMMMM     MMMM  .                  
+       '     MMMMM  -   .+-         sMMMMMM        -   M/  M 'MMh        MMMMM      MMMMMsMMMMMMMM            MMMMM    MM //                     
+       .    dMMMM  /    :     '.     hMMMMMMo          :  dMdMM          ./MMM     sMMMMo 'MMMMMMMM       :   MMMMM    s     -                   
+      '     MMMM- -''     '   '       MMMMMMMM       +/ :Mh M.       MMMM .MM     'MMMMM     MMMMMM           MMMMMh         MM                  
+      .    MMMMM ''..+/     '-''      -MMMMMMM+        +MMM         MMMM    y   :MMMM         MMMMMMMMM.    NMM     MMMM    :MMM'       '        
+      .   MhMMM     +d+ '   -         +MM.MMMMMM       M.     h  MMMMMs      .:MM- s  s'        MMMMMM   MMM       MMMMM    MMMMM+               
+         NM:NM      /s':   .         +myy  NMMMM       M        MMMMMM      oNM'  'MNd           MMMMM+            MMMMM     MMMMMh              
+        dMNoy      '-.:o ''  :       . ..  'NMMMM             .MMMMMMM        :h  mM:oy           MMMMMM     m      MMMMM     MMMMMM             
+       +MMMy-   . / ../.'        -.     ..  :MMMMM      '    yMMMM  MM      .MMMM -   M     s      MMMMMN           MMMMM     MMMMMMM            
+       MMMMM      - '    ''.     /y+'        +MMMM          MMMMMM+ M      /MMMMoN.  N+              MMMMM      MM-    MMMM    +MMMMMM'          
+       MMMMM     ::'   '.'/     /sso-         MMMMM     MMMo+  MM      MMy/M MMo M  'M     .s- o     .MMMM    MMMM      MMMM    :MMMMMM- ' '     
+       :MMMM-    -+o      .     '  -            mMM     MMMMd '       MMMMM.  MMMMM       -mMms       MMMMMM   M+        MMMM     MMMMMMd '      
+        MMMMm     o:              '.          -MMMd    MMMMMyo        MMMMMM     m/      -hd           MMMMM: /   .      +MMMM     MMMMMMM       
+        .MMMNd   ' .'           :             MMMM   MMMdMMMMM    m      MMM       MMM  's/      +.      MMMMM           MMhs       MMMMMMM      
+         MMMMN     /.       :.                MM    MMMM/ MM s        oMMM+       MMM- .y:     MMMM      MMMMMM-        o.           'MMMMMM     
+         mMMMM       '.yN- /o'            /       'MMMMM  M MM    'MMM      M   + MM:  m      MMMMm       MMMMMM       '              -MMMMMM-   
+         +MMMM-      :+M.  /:.          .yM      +mMMMMM    oM yMMN      MMMMM     /NyN     /MMMMMMM      dMMMM      :N:.   '  -       -MMMMMM   
+         .MMMMm     +':/               'odh      mMMMMMM    MMoMM       M MMMMd    :Ms   - oMMMMMs:/M+     'MMMMM      .   +            MMMMMM+..
+          MMMMM      'o/.  :-         '           MMMMMMM      MM     .M/  oMMMM'  oh   - 'MMhMMm/.     .     MMMM      : -M/           sMMMMm   
+          MMMMM      'oo:                   y   MNMMMMMMy+   . MM     dh  M/sMM .' -- .y  Md+MM     /NMMM      MMMMM  :Mm .  -.'   .     MMMM. . 
+          dm'MM       .      . :/-          /MMMM/      MMMMMMM:      /MMM:   ' -.   MM- hs      .oyyhNMMd     MMMMM  M: -yMMMy     o   + 'MM    
+          :M sM- :.  '  .+   ''/::          MMMMM      hMMMM       NMNMMs     s/yN:  s' MN  :  -o/:+oymMmN      MMMMMM  hsmMd-/     om  M  d.   .
+          .M  Mm My  s  ++--::.       yMMM /-   '  +M MM's     MMMMMm/ M      -sNM+    M .'   .   :/oss/om      +MMMMmMo/Mm  yh      . MM'       
+           M  .M MM. s    +o:/:    'MMMMM      M  MM-      /MMMh MMMMMMM.      momm   M  s          ':::yhh-      mMMMMy:M  o++.     .hMM     '  
+           M:  M MMM y    -....  MMMMMMM       M oM      :MMMo   MMMMMMN:/:    ys /     //  s        :::+ooMh     .:MM   MhMMM'     + MM: -   :  
+           MM  s  Mm :     .sMMMMMMMM            MM           MMMMMMMMd +mo:-   y       o 'MM         ../o/hMM-  h  N   h. ::   :  -. MM  .  s-  
+           oM  -  h     MyMMMMMMMh    .        M MMM        MMMMMMMM:hm  -/sh.  s  oN  sd hM            ::+symMod+             +hmd/ sMM :   M'  
+           .M/  d     MMMMMMMMM. .mMmo        MM My      MMMMMMs  MMMMm   omMm     'M   s :  '         '-/:+.odMso            '-mMm:'MMM .   d   
+            Md  M     MMMMMMMMMyMMMM       :MMM        MMMMM-  oMMMMM+   -oym+     -M  .  :..'               -/:ydy-          :'MM+:MMM      +  '
+            MM. M      MMMMMMMMMM        mMMMMM      MMMMM  NymMd  :+/.  ':ys    :  M-    o.:       '      '  '-/+oh+: --      MN-'MMMM     M-'. 
+            MM. M      M MMMMMM       MMdMMmMM      Nd-MMMMMMy     oh/     :/    s. .y   /o       '           ..yMMMMs'm      MM   dMMM     M    
+            yM. N        :MMMMM     mMMM / MMM       +MMMMMy       '.'.      '.  -:  M  :h.      .        :oMMMMMo     o     hM   oMMM     mo    
+            -M: sM          MMMMM        MMMMM      MMMMM    -:              ' +  s  N. +M:     ''    'oMMMMd    NMMM     :/+M'   MMMm     M .   
+             My''M           MMMM      MMMMMM    NMMMMMM'.'   ./:'           ::o  m  ys +hm+       .hMMMM-     .MMMMM     :Moy   MMMM     MM''   
+             MN  M      M/          MMMMMMMMy    M hs so     'yhd+           .'.  .o: M  :sN/    -MMMM      /MMMMM M     -  sM sMMMM      M--    
+             MM  M      Mm      NsMMMMMhMMMMMo  -  -        ':+/so:           '/-  h  M+  y:oo:oMMMh     +MMMMM    :m '   M:M  MMMMM     'Mo-'   
+             dM .MM     dM     MMMMM  MMMMMMM   / -'           .+oo:          .-/  . 'dh   osMMMM     ''+MMMMM        :  MM ddMMMMM       MM'- ''
+             /M' dM  '  'M        Mm MMMMMM     :.-'            /os+         ':.:   o :+   MMMM     oMMMMMMNMMs      hMMMM  MMMMMM      h Mm  .. 
+             .M..+M  :N          MMMMMMMM+   oyM+-'            ./oso         .-.yh :s     mMs -   M.+MMMMMMMM       MMMMM  MMMMMM      M: M' '' '
+              M/'.M  dM         MMMMMN MM+ s MNMy              :. -/'.:    '/-  sMhd/           MMMMMMMMM         M /h.mM'MMMMMM      MM' m      
+              My  My MM       Mo '   MMMMoMM-MM+               .  ':.s+--://+   'dMyd         d:   hMMM.       .MMM    MMMMMMMMo     MMy.M+    . 
+              MM  MN MM            sMM -MMMMMMM:           :..'     :+:ohyo/.    '+ /.  ssMMsM   M dM         dMMMM+ sMMMMsMMMd      MM-'M       
+              dM  MM MM          h M   yMMMMoyM.           :::-     /o/yo:-'       oMMMMMyM. M  Mo m          yMMMMMMMMMMsMMM+       MM MM  /   .
+              +M  NM MM.   .          MMMMM   +-           -:-'     oo//:..        o MMMMM   M MM         Ms MMMMM-M /MMM.MM'     M  My-MM  . .  
+              :M:.yM 'h:  :           MMMMd         .     -..    ..'/  .:..   '.     /MMMM     M        :MMMMMMMM  oMMMN/ :m     d  MMsMM   o-.  
+               Mh..M  d+  N .         '  MM Md     .':-  :      ..     /.     ..y:    dMMM     M  : /  : mmMMM    MMMMm   ..       MMMMM   /-'.  
+               MM  M  MM  + +'           MMMM      :.+   . -.          '     :-.M:mM. NMM      MM M.  s MMM/ :'mMMMMMy    M.      MNMMM    M' '  
+               MM  M+ /M  yM/:          MMMMM     :+:            '.      ..-/:::M-Mh  d           M MMMMMM  -MMMMM        Ms     MMMMM    oo .'  
+               dM  oM  M  MM -  '       N MMM .   +:.'          ..       .--..-':m          M y  MMmMM h   .MMMMN        MM     MMMMM .   M :-'  
+               :M'  M  Mo .+ :' ..  '     MMMMM  :  ..       ' .       '   ' /''    :     M MMM MM//:    /MohM  Nd       d   MNMMMMM     M+'' .  
+           '  ' MM  M   M  MM.. .:        hMMym/    '     -:   '  ':.-.     -::.    oN    MMMM. +    NMMMMN            ddMMMMM  yMM     Mh'.'   -
+         ''  .  MMM m   M mMM . -+-        MMMMMM      .  -  '..'.-..-      -  .     M   MyMMM -  dMMMMM            ydMhoMM    yMM     MN     '::
+             '  MMM M   M  yM -.:o+'       .MMMMMMM         .::..'  ''       ''. '       o .MMoMMMMd              MMMMMs:M   d-MM     Mo       ' 
+                dMM M:     MM './+s'        MMMMMMMm           ''-:.          .++   :+Mo    yMMMMmN-              MMMMMshM'MMM      /M          -
+              '':MMMM      MM. -.-y.     '  MMhMMMMM                    --'   .:o' MMMM'    MMM:+    o            y.MMMoMMMMM     /My  '-      . 
+       '      '. MMMMM     yMN - 'o. '      oMMMMMMM             .'     -'.'  '    MMMMy                   +yoo    hMMMdMM      yM+ .- '     -   
+         .''  '. /MMMMy     oM . .:: '       MMMMMMMo                    '      .' MMMMM        ..      osyomM       MMMMM .:  y   +/-      :: . 
+      '       .   MMhMM  M   N    'o'.      'Mhmm  MMMMM                  .        MMMMM        '     MMh//.--  .      MMM     h   .'  .   -.'   
+             .  ' MMMMMM s         + '.     -/+    MMMMM   ..+.                    MMMhy           .NMM:-'   -+MMo     MMM.s       :+ --  .   '' 
+                 ':MMMMM           :-'.      '.    MMMMM    :s:-/::/.'             M     MMM     yMmy '      -MMMM     MMMy/       /. :' .. .    
+                 /.MMMMMy        ' :/ ''     '-    MMMMM    .:.''                 +      MMM /yMmdo           MMMMM     MMo   '    : '   : +-  . 
+    ..''      '    sMMMMM       '  .:'..     '-   MMMMM      '     .              :     sMMMMMMy              MMMMM    +MMo+     ..     :/+:  '  
+          '      ' .MMMMM     h     : ''      + '.M MM  M  - '   ''            ' ':     MMMMMMy             MMMMM      MMyh   '       ...-    .  
+    '   .     .     MMMMM     h     : +s'       MMMMh      .:                     :     MMMMM.           .hMMMM     yMMM             -  .' .. ' .
+    '             ..+MMMM     h     ..MMMh      MMMMM       '          '         --   +dMMM            oMMMMs     MMMMMM     +          '  '  '++
+       '    '.      'MMMM     M      MMMMM      MMM s   +/         .             -: MMd/M            oMMMM      MMMMMMMM     o   '  '  '     .:-.
+          ' '  ''  -.mMMM..   y     MMMMM       dM  s  +M+  '   ''                mMMMo            yMMMM     -MMMhMMMMM      s:.'           ..-'-
+'   '          '  -. oMMMMM        MMMMM-          .MyMo    -  .'                 MMMMo          +MMMo     MMMMM'MMMMM       m.      '   '       
+   .           '-..  :MMMMMM' 'h'dMMMM/           s mMM'M-    ''       '  ''     :MMMM'         oMM+     MMMMMMMMMMMh         ''    . '        ' 
+         '  '  '.   '.dMMMMMhhMMmMm/-               MMM.:        ''     '.-:      oMMMy:        m     .MMMMMMMMMMM          M '    ' '.      +   
+            ' '       oMMMMMMh+'/yshh      o       oNmo.    :  ''      '-...'       hMMd:           MMMMMMMMMMMM           N.     .:   ' --      
+     ' ''           '.:/MMMMMm.o+MMM      Mh       :oMo  .     '      '' ''.+sNN      MM         dMMMMy+MMMMMM           mM  .'   .      .'      
+'      '     ..     -. .NMMMMMMMoy:     /MM .     y.dM'  ''         '   '''-sMMM       :       MMMMMMMMMMMM        Ny  Moo:      .--'.        /.:
+     .'    ' .     .'  /:NMMMMN        hMMsmh      smM.           '         yMMMM         ' /MMMMMMhMMMMy      +MMm'  :  ''      ':        -/:.' 
+ '   '       .' '     - 'ohMMM+     .yyyo+:N.        MM/:m'     '           sMMMM         ydMMMMMMhMMM        MMMd.'. .      .   .   '  .  -- .  
+'               .:..'    '/dMMMM'       o.mmhN       MMMMs:                 'mMMMM       MMMMMMMMM'          o:oM/:/     +.'/o          ' .   o  
+  ' '     .     -' '   ' .-:MMMMs       :yMMM/       MMMMo-                .MMMMMM      :MMMMMMMM        .     yNm+.'- .s+'           +'-   .y/-+
+ . '      ' .' -'     .    -MMMMM.       mmMM:s      MMMMM.                MMMMMMMMyh   MNMMMo        'm/-     .odhs: -'  .       :   :  .  ++ s 
+'.       /  .  -  .  .     -shMMMhy      +:::mdy      MMMNh               .MMMMMhMMMMMMMMMy          hMs o      ./ +   ' '      '.  ':' .  -   - 
+    ... '' '     .      :-o-.:smNMho     .. mMNN:     MMMMM               +MMMMM.MM/MM+ Md        :N..M  '  /      - '/: '     .:.' -  :-+       
+        ''  .       '-' s.    :yMMMd/-   . 'm.mM+      hMMM -             :MMMMm MMMMMo y         M'.':    .:        .---     . ::  + '+:        
+ '          . '     .  .-  -  -shddmos.:     NMhMy      MMMMm     '       :MMos/ mMMMMM:         M   :'ho'/   .              .'-.: /s  -  -.     
+     -  -  .  '     .  '- -   -:://osh .    :NhMMN      yMMM ''/.         /M'om- s:'  /  .   +  My  y./.-   +       :'     -:: .   o'  :' h.     
+    '  :. '.  .       '.    '+:-++.:y '-  //+omyNMM      MMy   os:        ym.//  /-s        o. s+'Ms/.  :  m       .      ...     '-  -.  :  :' :
+ :     '  .. .:    :-'.    '.o /// ::  :  //+':.hMMm     yMM            /MMM-    :       ..o: .h MN.       y  +            .o+. . . .     ' /y-' 
+ '  '     .      ':+     - . - -.. -'  o :o:'  .+MMMM  :  MM          oMMMM            :s   --m+:s .   o      .     -     -/:' '  ::     s  o  ' 
+.'    ..'      - :-  .  '  '-.    ':s  .o  :- '/'dMMMhsM  M-    '-   'MMMM          -. -/ 'My '   s+  .  :  .     ' ' -   :   '  -   .'//:     :-
+   -  .   .       '-':     :' .- :/:. ---.:+  - 'MMMMMMMN:..   ' ' .MMym'         :  --:  '+  oy :-       /' '/       +     ' s      :y+'    -.+ 
+  '.  '  :'      .' :   . '.  . '.'. .  :+.:-   .-yMMMmMM-hM:-     /MNdms           //  .-:N+hs       '- -N.         :  .   ' - .     - +:.      
+' :'    .:  .   . '     o   -   .  .   .:s/o  '-.o-/h -My.MM+mN :. :Mssd       'M  +.      ' '     .- /+ dM- -     . +  .  .         '.sh.'    .:
+.    . -.  .  .- .     :.  .   -  -  :' .  . :o:+s  . hMo:/  :+NMMMMMN       :/M  :s . ' o:: .     .  . 'y/:.       -o :.       '   o:ho'    .   
+.  . '.  . -:-       '   .'. '+'      : ' / -s. s. :  +s     -    dMMo     Mmy  ': +' '  h   :   :  .: :s  /       :.  '    -.. -  :+     ...'   
+  :  :   - :'.          ::o         ':   .- +- +/ :o ':  ..      .o..  '. MM'o :/  M        .   '  .   y-:/.     .::s'  .  y:     :s:    .:-.    
+    - '.   .   .  .+     /.    -:- / . '   '.o/.:o:.     N  .   - .      :d y/ s.     s /      -::   '/:/'     ' '        .o . '   -  '''  :     
+   '../-      '  ::-'  .  ''  ''  .'::.     .+  .....-. dh     :/-'   .' h    :o o.  /.y     : ..    om'h     .     ' ./'    . '  .. /.  .   '   
+ .:/...       - ' .'. :  's  '  '   .   ' : / ''o'-'+/ .s        '   /y' o   -  o   : ' '    -/  s .oo --         +: .   .-:/    -/'    ' ./o -  
+ -  -   .  -  : .-'   '  '.      -./.' '  .'  /+--'     : 'o:      /- h: ys  .    .   ' : /': : : '': o          +      /.s     .+   :.'-.       
+.. -- '       .:-     -  '      ./'''     :  o- ..   ' -m.+d  :       h /M+      /  o:' y:  -   : o.o:+ '     '/+      / s-  +' :/   - '/        
+- .'        -.+:     - -. '-  .       ..//. +  :   .  oM- :' /-      :  +.     /Nm     +y     . .+-/ '      . o       s '   ''/ o:  :  /    '-:  
+ .   '    .s:'     : --'         ..   '-s:-'  .:  o' -o    :sm   '  +   o  /:      -o +   / h /-: s/'            .// --   '  ..  - .'  :         
+ .      'o/:     '-  /        ' ':..   .      /  :+  .   +.m/  s   '   ++  m' .y      o  o-'/ .-' m   +      ' .-:    '..-   o :.  /  -. .       
+      -  +   '     .'/'.     .:':     -.'+'  '  .   '.o+o/    oy'-     .   +  My ':  +        '/ :o  -       : '     -/..:  .  /  :-       .  .''
+  .  y  .. '     :../.      +' -. '. :/' :     '''-:-++-.         +..-     - my/      '   : '.- '- .'       h' :     /- -   ' :  . .:     -  '.  
+ :  /:          .'          + .   . /o .     -+: -  '- .'..: .   --       :.      .ysoo  '  o: .:  ''      '     s'-.   . .:-     o:    :s'      
++  '  -.'     ''.   '   .  .-- .:     '    ' y:. :  .' my:.       '   o   o   ' . '.    +y M     :       '  /+.o/   '  '  /: . '//     '-       '
